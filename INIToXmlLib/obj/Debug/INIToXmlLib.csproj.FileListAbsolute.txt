@@ -1,0 +1,12 @@
+D:\C#\INIToXmlLib\INIToXmlLib\bin\Debug\INIToXmlLib.dll
+D:\C#\INIToXmlLib\INIToXmlLib\bin\Debug\INIToXmlLib.pdb
+D:\C#\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.csprojAssemblyReference.cache
+D:\C#\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.csproj.CoreCompileInputs.cache
+D:\C#\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.dll
+D:\C#\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.pdb
+D:\usknet\INIToXmlLib\INIToXmlLib\bin\Debug\INIToXmlLib.dll
+D:\usknet\INIToXmlLib\INIToXmlLib\bin\Debug\INIToXmlLib.pdb
+D:\usknet\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.csprojAssemblyReference.cache
+D:\usknet\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.csproj.CoreCompileInputs.cache
+D:\usknet\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.dll
+D:\usknet\INIToXmlLib\INIToXmlLib\obj\Debug\INIToXmlLib.pdb
